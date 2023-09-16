@@ -1,6 +1,6 @@
 # Reverse Saber: A Beat Saber Mod
 
-![Reverse Saber Logo](TBD)
+# ![Reverse Saber Logo](TBD)
 
 Welcome to Reverse Saber, an innovative mod for the popular VR rhythm game Beat Saber. This project was created for the UX/AI Hackathon, aiming to provide a unique gaming experience that challenges players' reflexes and cognitive abilities while promoting physical activity and mental engagement.
 
